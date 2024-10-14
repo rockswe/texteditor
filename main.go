@@ -10,6 +10,8 @@ import (
 func main() {
     fmt.Println("Simple Text Editor in Go")
 
+    //wherever
+    
     filename := "example.txt" // This can be taken from command-line arguments
 
     // Reading from a file
